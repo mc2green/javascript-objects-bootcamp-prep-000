@@ -1,7 +1,5 @@
-var playlist = {AliciaKeys: "No One", 
-Maroon5: "She Will be Loved", 
-MeghanTrainor: "No Excuses"};
+var playlist = {'Slowdive': 'Alison', 'My Bloody Valentine': 'Sometimes'};
 
 function updatePlaylist(playlist, artistName, songTitle){
-  return Object.assign
+  return playlist.assign()
 }
